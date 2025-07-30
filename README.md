@@ -42,15 +42,6 @@ Este trabajo práctico implementa un diccionario utilizando una **estructura de 
 ---
 
 ## 📁 Estructura del Repositorio
-.
-├── Dockerfile
-├── Makefile
-├── tp3.h # Definiciones de estructuras y funciones públicas
-├── tp3.c # Implementación de las funciones del diccionario
-├── tests.c # Pruebas unitarias del diccionario
-├── test_malloc.h # Simulación de malloc y free para pruebas
-└── test_malloc.c # Verificaciones de gestión de memoria
-
 
 - **Dockerfile y Makefile**: Permiten crear un entorno de desarrollo reproducible. Garantizan que el código se ejecute de la misma manera en diferentes sistemas operativos.
 

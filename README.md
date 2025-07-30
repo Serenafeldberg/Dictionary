@@ -42,6 +42,7 @@ Este trabajo práctico implementa un diccionario utilizando una **estructura de 
 ---
 
 ## 📁 Estructura del Repositorio
+.
 ├── Dockerfile
 ├── Makefile
 ├── tp3.h # Definiciones de estructuras y funciones públicas
